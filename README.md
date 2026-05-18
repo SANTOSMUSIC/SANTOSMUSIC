@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://giffiles.alphacoders.com/425/4256.gif"  />
+<img align="right" height="150" src="https://giffiles.alphacoders.com/425/4256.gif"  />
 
 ###
 
@@ -16,9 +16,9 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/SANTOSMUSIC/SANTOSMUSIC/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/SANTOSMUSIC/SANTOSMUSIC/languages-output/languages.svg" height="120" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/SANTOSMUSIC/SANTOSMUSIC/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
