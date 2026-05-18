@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">UI/UX designer, frontend dev & AutoCAD<br>*powered by way too much coffe & cigarettes ☕🚬*<br><br>Spotify runs my mood, if you catch me <br>without hearphones, send help 🎧<br>Sleepy is sanity. No cap. :v 😴💯</p>
+<p align="left">UI/UX designer, frontend dev & AutoCAD<br>*powered by way too much coffee & cigarettes ☕🚬*<br><br>Spotify runs my mood, if you catch me <br>without hearphones, send help 🎧<br>Sleepy is sanity. No cap. :v 😴💯</p>
 
 ###
 
